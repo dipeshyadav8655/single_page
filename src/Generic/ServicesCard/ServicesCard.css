@@ -1,0 +1,21 @@
+.ServicescardContainer{
+    width: 26.944vw;
+    border-radius: 1.667vw;
+    /* border-color: #D4D2E3; */
+    border: 1px solid #D4D2E3;
+    padding: 2.986vw 2.222vw 1.667vw 2.22vw ;
+    /* padding-bottom: 24px; */
+}
+.ServicescardContainer:hover{
+    background-color: #5D2EDE;
+    color: white;
+    
+}
+.cardText{
+    margin-top: 0.556vw;
+    margin-bottom: 0.694;
+}
+
+/* .w70 img{
+    width: 100%;
+} */

@@ -1,0 +1,12 @@
+.hero-container{
+    width: 100vw;
+    overflow: hidden;
+}
+.hero-title{
+    width: 58.375vw;
+    overflow-wrap: normal;
+}
+.gap24{
+    gap: 1.667vw;
+}
+

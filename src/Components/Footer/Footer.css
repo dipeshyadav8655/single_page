@@ -1,0 +1,94 @@
+.ContactUs{
+    background-color: #08052F;
+    padding: 6.599vw 5.077vw; 
+    display: flex;
+    justify-content: space-between;
+}
+.Form{
+    width: 41.806vw;
+    background-color: #15123C;
+    border: 1px solid #66638D;
+    border-radius: 1.667vw;
+    padding: 6.111vw 3.889vw;
+}
+.Submit{
+    margin-top: 2.153vw;
+    width: 13.333vw;
+    height: 3.819vw;
+    /* background:radial-gradient(#EABFFF,#98F9FF); */
+    border-radius: 4.876vw;
+    border: 0.139vw;
+    background-image: url('../../Assets/Rectangle 1.svg');
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+}
+
+.InputDiv{
+    margin-bottom: 1.667vw;
+    height: 3.819vw;
+}
+.TextDiv{
+    height: 9.089vw;
+    padding-top: 0.868vw;
+}
+input{
+    border: none;
+    background:inherit;
+    color: white;
+    outline: none;
+    width: inherit;
+    border-radius: 10px;
+}
+input::placeholder{
+    color: white;
+}
+textarea{
+    border: none;
+    background:inherit;
+    outline: none;
+    color: white;
+    width: inherit;
+}
+textarea::placeholder{
+    color: white;
+}
+.Icon{
+    margin: 0 1.167vw;
+}
+.Detail{
+    margin-left: 7.778vw;
+}
+.heading{
+    color: white;
+    font-family: DM Sans;
+    font-size: 3.889vw;
+    font-weight: bold;
+   
+}
+.subText{
+    margin: 1.111vw 0 2.083vw 0;
+}
+.subDetail{
+    margin-top: 1.111vw;
+}
+.SocialLinks{
+    margin-top: 3.472vw;
+}
+.Links{
+    background-color: #000000;
+    padding: 3.625vw 7.664vw;
+    justify-content: space-between;
+}
+.LogoDiv{
+    width: 23.653vw;
+}
+.linkDiv{
+   padding-top: 2.778vw;
+}
+.linkHeading{
+    padding-bottom: 2.778vw;
+}
+a{
+    color: #E8E8E8;
+}

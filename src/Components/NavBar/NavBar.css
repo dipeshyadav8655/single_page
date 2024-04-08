@@ -1,0 +1,32 @@
+.navContainer{
+    height: 8.264vw;
+    padding-right: 7.639vw;
+    padding-left: 4.737vw;
+}
+.menu{
+    gap: 2.292vw;
+}
+.logo{
+    gap:1.139vw;
+}
+.logo img{
+    margin-top: 0.825vw;
+    height: 6.158vw;
+    width: 6.158vw;
+}
+.navDropDown{
+    position: absolute;
+    top: 100px;
+    right: 540px;
+    /* left: 158px; */
+    background-color: white;
+    width: 250px;
+    /* color: black; */
+    z-index: 1;
+}
+.navLink{
+    text-decoration: none;
+    color: black;
+    margin: 1.389vw 0.694vw;
+    cursor: pointer;
+}
